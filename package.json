@@ -4,7 +4,7 @@
   "description": "Application for booking ganesh idol with simple UI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jogshraddha/react-node-app/issues"
   },
-  "homepage": "https://github.com/jogshraddha/react-node-app"
+  "homepage": "https://github.com/jogshraddha/react-node-app",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
