@@ -1,0 +1,19 @@
+{
+  "name": "react-node-app",
+  "version": "0.0.1",
+  "description": "Application for booking ganesh idol with simple UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jogshraddha/react-node-app.git"
+  },
+  "author": "shraddhajog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogshraddha/react-node-app/issues"
+  },
+  "homepage": "https://github.com/jogshraddha/react-node-app"
+}
